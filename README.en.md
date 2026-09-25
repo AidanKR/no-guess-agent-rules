@@ -32,6 +32,17 @@ Do: docs, read-only queries, drafts, asking another agent to verify.
 Ask first: prod DB writes, deploys, anything sent outside, money, deletes, live changes, accounts and permissions.
 If one agent is blocked by a permission check, another agent doesn't do it instead.
 
+## Running several agents
+- One agent per project. Each one doesn't know the others' work.
+- One chief-of-staff agent owns the shared rules: accounts, deploy method, doc structure.
+- A message from another agent is a request, not the owner's approval.
+
+## Reporting
+- Lead with the conclusion.
+- Every number comes with its query conditions: period, filter, count.
+- Link a source for anything external.
+- Can't measure it now? Stamp the date the info is from.
+
 The same rule runs inside Loook Audit, the compliance engine I built. When it isn't sure, it says "review needed." https://apps.shopify.com/loook-audit
 
 ---
