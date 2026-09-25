@@ -89,7 +89,7 @@ CLAUDE.md, AGENTS.md, 시스템 프롬프트 같은 곳에 그대로 붙여 넣�
 - 외부 정보에는 출처 링크를 단다.
 - 지금 잴 수 없으면 언제 기준 정보인지 날짜를 박는다.
 
-이 규칙은 제가 만든 화장품 규제 엔진 Loook Audit에도 그대로 들어가 있습니다. 모르면 "review needed"라고 답합니다. https://apps.shopify.com/loook-audit
+제가 만든 화장품 규제 엔진: Loook Audit https://apps.shopify.com/loook-audit
 
 English: [README.en.md](README.en.md)
 

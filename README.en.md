@@ -43,7 +43,7 @@ If one agent is blocked by a permission check, another agent doesn't do it inste
 - Link a source for anything external.
 - Can't measure it now? Stamp the date the info is from.
 
-The same rule runs inside Loook Audit, the compliance engine I built. When it isn't sure, it says "review needed." https://apps.shopify.com/loook-audit
+I also built Loook Audit, a compliance checker for Shopify stores: https://apps.shopify.com/loook-audit
 
 ---
 
